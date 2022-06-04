@@ -1,1 +1,33 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-image: url(https://media.istockphoto.com/vectors/vector-poker-black-background-playing-card-symbols-pattern-blackjack-vector-id868429174?k=20&m=868429174&s=612x612&w=0&h=QoDZl-R2-YuSFWiEQJRaG1WJKNhmhAPYlndsBKmlkdg=);
+}
+#carta {
+  height: 590px;
+  width: 420px;
+  border-radius: 20px;
+  background-image: url(https://st4.depositphotos.com/11246114/40185/i/450/depositphotos_401857846-stock-photo-wood-background-abstract-wooden-texture.jpg);
+}
+h1 {
+  font-size: 120px;
+}
+h2 {
+  font-size: 100px;
+}
+#numero {
+  height: 230px;
+}
+#inferior {
+  transform: rotate(180deg);
+}
+#boton {
+  margin: auto;
+}
+.botones {
+  align-self: center;
+}
+
+.imgboton {
+  background-image: url(https://st4.depositphotos.com/11246114/40185/i/450/depositphotos_401857846-stock-photo-wood-background-abstract-wooden-texture.jpg);
+}
